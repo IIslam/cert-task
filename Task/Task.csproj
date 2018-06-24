@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Processes\Alpha.cs" />
+    <Compile Include="Processes\Counter.cs" />
+    <Compile Include="Processes\MyProcess.cs" />
+    <Compile Include="Processes\RestartProcess.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
